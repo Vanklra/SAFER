@@ -1,0 +1,2 @@
+# SAFER
+A safer writer
