@@ -29,3 +29,7 @@ SAFER/
 python -m venv venv
 source venv/bin/activate  # Linux / macOS
 venv\Scripts\activate     # Windows
+
+pip install -r requirements.txt # Установите все зависимости командой
+
+python src/mainwindow.py # После этого можно запускать проект
