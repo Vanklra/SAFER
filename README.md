@@ -16,3 +16,16 @@ SAFER/
 │ ├── mainwindow.py # Алгоритм пользовательского интерфейса
 │ ├── encwindow.ui
 │── README.md # Документация
+
+## ⚡ Установка зависимостей
+
+Проект использует Python 3.x и требует наличия следующих библиотек:
+
+- [PyQt5](https://pypi.org/project/PyQt5/) — для графического интерфейса.
+
+Рекомендуется использовать виртуальное окружение:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux / macOS
+venv\Scripts\activate     # Windows
